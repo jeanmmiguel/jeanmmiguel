@@ -4,7 +4,7 @@
 
 
 - 🖥️ I’m currently studying Computer Science at Federal Technological University of Paraná!
-- 🥷🏼 I'm currently doing research in the information security field, I understand how to do a Penetration Test on web systems,mobile, OS, etc.
+- 🥷🏼 I'm currently doing research in the information security's field, I understand how to do a Penetration Test on web systems,mobile, OS, and I've been starting to wrtite and article about computer forensics that is a Comparison of Open-source tools for Forensic Analysis on Linux systems. 
 - 📖 I'm currently learning Python/kivy, javascript
 - 💬 Ask me about ... Cybersecurity, Red Team, Ethical Hacking 
 - -I like playing CTF's
