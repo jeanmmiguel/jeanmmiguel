@@ -4,9 +4,9 @@
 
 
 - 🖥️ I’m currently studying Computer Science at Federal Technological University of Paraná!
-- 🥷🏼 I'm currently doing research in the information security's field, I understand how to do a Penetration Test on web systems,mobile, OS, and I've been starting to wrtite an article about computer forensics that is a Comparison of Open-source tools for Forensic Analysis on Linux systems. 
+- 🥷🏼 I'm currently doing research in the information security's field, I understand how to do a Penetration Test on web systems,mobile, OS, and I've been working with security in mobile devices,web applications and IoT. 
 - 📖 I'm currently learning Python/kivy, javascript
-- 💬 Ask me about ... Cybersecurity, Red Team, Ethical Hacking 
+- 💬 Ask me about ... Cybersecurity, Red Team, Ethical Hacking, Operating Systems , distributed Systems.
 - -I like playing CTF's
 - 📫 How to reach me: jeanm@alunos.utfpr.edu.br
 
