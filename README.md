@@ -1,14 +1,13 @@
 ### Hi Guys, I'm Jean 👋
 
-<h4> I'm a computer science student and Information Security Researcher/Pentester </h4>
+<h4> I'm an Information Security Researcher/Pentester </h4>
 
 
 - 🖥️ I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🥷🏼 I'm currently doing research in the information security's field, I understand how to do a Penetration Test on web systems,mobile, OS, and I've been working with security in mobile devices,web applications and IoT. 
-- 📖 I'm currently learning Python/kivy, javascript
 - 💬 Ask me about ... Cybersecurity, Red Team, Ethical Hacking, Operating Systems , distributed Systems.
 - -I like playing CTF's
-- 📫 How to reach me: jeanm@alunos.utfpr.edu.br
+- 📫 How to reach me: https://www.linkedin.com/in/jeancmmiguel/
 
 <h3> Git's Status </h3>
 <div align="center">
